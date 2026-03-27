@@ -3,9 +3,9 @@
 Install the tap and formula:
 
 ```bash
-brew tap haegwan/tap
-brew install haegwan/tap/sanka
+brew tap sankaHQ/tap
+brew install sankaHQ/tap/sanka
 ```
 
 This tap publishes the generated `sanka.rb` formula from the
-[`haegwan/sanka-cli`](https://github.com/haegwan/sanka-cli) release process.
+[`sankaHQ/sanka-cli`](https://github.com/sankaHQ/sanka-cli) release process.
